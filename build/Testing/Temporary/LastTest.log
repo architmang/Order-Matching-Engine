@@ -1,0 +1,25 @@
+Start testing: Jul 02 07:37 IST
+----------------------------------------------------------
+1/1 Testing: matching_tests
+1/1 Test: matching_tests
+Command: "/Users/archit/Downloads/Order-Matching-Engine/build/test_matching"
+Directory: /Users/archit/Downloads/Order-Matching-Engine/build
+"matching_tests" start time: Jul 02 07:37 IST
+Output:
+----------------------------------------------------------
+testLimitMatch passed
+testPriceTimePriority passed
+testIOCCancelsRemainder passed
+testFOKAllOrNothing passed
+testCancel passed
+testSPMCQueueMultiConsumer passed
+ALL TESTS PASSED
+<end of output>
+Test time =   0.74 sec
+----------------------------------------------------------
+Test Passed.
+"matching_tests" end time: Jul 02 07:37 IST
+"matching_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 02 07:37 IST
